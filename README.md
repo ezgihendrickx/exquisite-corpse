@@ -1,3 +1,4 @@
+
 # Phi Wanderer
 
 *Make yourself happy with small things* 
@@ -28,3 +29,4 @@ Pinneapple on pizza|<ul><li>[ ] Yes</li><li>[x] No</li></ul>
 He has been writing for his whole life but they were mostly childish stories, sort of adventures though. 
 
 ###### Phi just made himself happy with small things. 
+Iam impressed with the written your text 
